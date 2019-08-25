@@ -1,4 +1,3 @@
-index.js
 const request = require('request');
 
 exports.handler = function(event, context) {
